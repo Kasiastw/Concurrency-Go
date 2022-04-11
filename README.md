@@ -1,1 +1,1 @@
-# Concurrency-Go
+# Rate limiter
